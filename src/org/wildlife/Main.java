@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
         System.out.println("Growl! Purr! Rinse and repeat... Let's develop");
+        System.out.println("Here is line 2");
     }
 }
